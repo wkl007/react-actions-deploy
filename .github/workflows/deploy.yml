@@ -19,3 +19,4 @@ jobs:
           BRANCH: gh-pages
           FOLDER: build
           CLEAN: true
+          BASE_BRANCH: master
